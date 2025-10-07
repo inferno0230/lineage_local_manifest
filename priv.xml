@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Addons -->
+  <project path="vendor/extra" name="inferno0230/lineage_vendor_extra" revision="lineage-23.0" />
+
+  <!-- priv signing keys -->
+  <project path="vendor/lineage-priv/keys" name="inferno0230/android_vendor_lineage-priv_keys" revision="lineage-23.0" />
+
+</manifest>

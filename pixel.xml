@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- gitlab remote -->
+  <remote name="gitlab" fetch="https://gitlab.com/" />
+
+  <!-- google/pixel apps -->
+  <project path="vendor/gapps" name="MindTheGapps/vendor_gapps" remote="gitlab" revision="baklava" clone-depth="1" />
+  <project path="vendor/pixel/clocks" name="PixelOS-AOSP/proprietary_vendor_pixel_clocks" remote="gitlab" revision="sixteen" clone-depth="1" />
+  <project path="vendor/pixel/gsans" name="PixelOS-AOSP/proprietary_vendor_pixel_gsans" remote="gitlab" revision="sixteen" clone-depth="1" />
+  <project path="vendor/pixel/launcher" name="PixelOS-AOSP/proprietary_vendor_pixel_launcher" remote="gitlab" revision="sixteen" clone-depth="1" />
+
+</manifest>
