@@ -12,8 +12,8 @@
   <project path="kernel/oneplus/sm8650" remote="github" name="LineageOS/android_kernel_oneplus_sm8650" />
   <project path="kernel/oneplus/sm8650-devicetrees" remote="github" name="LineageOS/android_kernel_oneplus_sm8650-devicetrees" />
   <project path="kernel/oneplus/sm8650-modules" remote="github" name="LineageOS/android_kernel_oneplus_sm8650-modules" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_caihong" path="vendor/oneplus/caihong" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_sm8650-common" path="vendor/oneplus/sm8650-common" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_caihong" path="vendor/oneplus/caihong" revision="refs/heads/lineage-22.2" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_sm8650-common" path="vendor/oneplus/sm8650-common" revision="refs/heads/lineage-22.2" />
   <project name="TheMuppets/proprietary_vendor_oneplus_benz" path="vendor/oneplus/benz" />
   <project name="TheMuppets/proprietary_vendor_oneplus_aston" path="vendor/oneplus/aston" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8550-common" path="vendor/oneplus/sm8550-common" />
