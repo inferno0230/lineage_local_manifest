@@ -9,9 +9,9 @@
   <project path="device/oneplus/caihong" name="LineageOS/android_device_oneplus_caihong" />
   <project path="device/oneplus/sm8550-common" name="LineageOS/android_device_oneplus_sm8550-common" />
   <project path="device/oneplus/sm8650-common" name="LineageOS/android_device_oneplus_sm8650-common" />
-  <project path="kernel/oneplus/sm8650" name="OnePlus-12-Development/android_kernel_oneplus_sm8650" revision="1411d56b7e0c0e7e7649493d084ce3a4766c9a48" upstream="lineage-22.2" />
+  <project path="kernel/oneplus/sm8650" name="LineageOS/android_kernel_oneplus_sm8650" />
   <project path="kernel/oneplus/sm8650-devicetrees" name="LineageOS/android_kernel_oneplus_sm8650-devicetrees" />
-  <project path="kernel/oneplus/sm8650-modules" name="OnePlus-12-Development/android_kernel_oneplus_sm8650-modules" revision="04d0ab997caa2dcba2aa84c94ce737d8c0ba400e" upstream="lineage-22.2" />
+  <project path="kernel/oneplus/sm8650-modules" name="LineageOS/android_kernel_oneplus_sm8650-modules" />
   <project name="TheMuppets/proprietary_vendor_oneplus_caihong" path="vendor/oneplus/caihong" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8650-common" path="vendor/oneplus/sm8650-common" />
   <project name="TheMuppets/proprietary_vendor_oneplus_benz" path="vendor/oneplus/benz" />
