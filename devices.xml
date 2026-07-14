@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/oneplus/aston" name="LineageOS/android_device_oneplus_aston" />
+  <!-- project path="device/oneplus/aston" name="LineageOS/android_device_oneplus_aston" /-->
   <project path="device/oneplus/benz" name="LineageOS/android_device_oneplus_benz" />
   <project path="hardware/oplus" name="LineageOS/android_hardware_oplus" />
   <project path="kernel/oneplus/sm8550" name="LineageOS/android_kernel_oneplus_sm8550" />
   <project path="kernel/oneplus/sm8550-devicetrees" name="LineageOS/android_kernel_oneplus_sm8550-devicetrees" />
   <project path="kernel/oneplus/sm8550-modules"  name="LineageOS/android_kernel_oneplus_sm8550-modules" />
   <project path="device/oneplus/caihong" name="LineageOS/android_device_oneplus_caihong" />
-  <project path="device/oneplus/sm8550-common" name="LineageOS/android_device_oneplus_sm8550-common" />
+  <!-- project path="device/oneplus/sm8550-common" name="LineageOS/android_device_oneplus_sm8550-common" / -->
   <project path="device/oneplus/sm8650-common" name="LineageOS/android_device_oneplus_sm8650-common" />
   <project path="kernel/oneplus/sm8650" name="LineageOS/android_kernel_oneplus_sm8650" />
   <project path="kernel/oneplus/sm8650-devicetrees" name="LineageOS/android_kernel_oneplus_sm8650-devicetrees" />
@@ -15,6 +15,7 @@
   <project name="TheMuppets/proprietary_vendor_oneplus_caihong" path="vendor/oneplus/caihong" />
   <project name="TheMuppets/proprietary_vendor_oneplus_sm8650-common" path="vendor/oneplus/sm8650-common" />
   <project name="TheMuppets/proprietary_vendor_oneplus_benz" path="vendor/oneplus/benz" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_aston" path="vendor/oneplus/aston" />
-  <project name="TheMuppets/proprietary_vendor_oneplus_sm8550-common" path="vendor/oneplus/sm8550-common" />
+  <!-- project name="TheMuppets/proprietary_vendor_oneplus_aston" path="vendor/oneplus/aston" />
+  <project name="TheMuppets/proprietary_vendor_oneplus_sm8550-common" path="vendor/oneplus/sm8550-common" / -->
+  <project path="hardware/pixelworks/interfaces" remote="github" name="LineageOS/android_hardware_pixelworks_interfaces" />
 </manifest>
